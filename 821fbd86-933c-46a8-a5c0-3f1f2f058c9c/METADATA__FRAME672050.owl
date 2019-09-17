@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<subClassOf xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://semoss.org/ontologies/Concept"/>
+	<IsPrimKey xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</IsPrimKey>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__NEWDEVICES">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__NEWDEVICES"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__NEWDEVICES">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">NEWDEVICES</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Acquisition_Cost">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Acquisition_Cost"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Acquisition_Cost">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Acquisition_Cost</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Acquisition_Cost</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Acquisition_Date">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Acquisition_Date"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Acquisition_Date">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Acquisition_Date</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Acquisition_Date</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DATE</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Common_Model">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Common_Model"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Common_Model">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Common_Model</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Common_Model</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Connector_Compatible">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Connector_Compatible"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Connector_Compatible">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Connector_Compatible</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Connector_Compatible</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Device_Class">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Device_Class"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Device_Class">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Device_Class</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Device_Class</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Device_Type">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Device_Type"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Device_Type">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Device_Type</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Device_Type</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__EHR_Compatible">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__EHR_Compatible"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__EHR_Compatible">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__EHR_Compatible</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">EHR_Compatible</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Equipment_Nomenclature">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Equipment_Nomenclature"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Equipment_Nomenclature">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Equipment_Nomenclature</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Equipment_Nomenclature</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Fiscal_Quarter_EOL">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Fiscal_Quarter_EOL"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Fiscal_Quarter_EOL">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Fiscal_Quarter_EOL</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Fiscal_Quarter_EOL</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Fiscal_Year_EOL">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Fiscal_Year_EOL"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Fiscal_Year_EOL">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Fiscal_Year_EOL</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Fiscal_Year_EOL</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Life_Expectancy">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Life_Expectancy"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Life_Expectancy">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Life_Expectancy</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Life_Expectancy</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Location_1">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Location_1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Location_1">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Location_1</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Location_1</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Manufacturer_Name">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Manufacturer_Name"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Manufacturer_Name">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Manufacturer_Name</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Manufacturer_Name</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Nameplate_Model">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Nameplate_Model"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Nameplate_Model">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Nameplate_Model</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Nameplate_Model</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Past_Life_Expectancy">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Past_Life_Expectancy"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Past_Life_Expectancy">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Past_Life_Expectancy</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Past_Life_Expectancy</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Replacement_Date">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Replacement_Date"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__Replacement_Date">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__Replacement_Date</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Replacement_Date</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DATE</DatatypeProperty>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__UniqueID">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME672050">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME672050__UniqueID"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME672050__UniqueID">
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">952840cf-0fd0-4290-8b26-789f522ab721:::NEWDEVICES__UniqueID</QueryStructName>
+	<IsDerived xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</IsDerived>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">UniqueID</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+</rdf:Description>
+
+</rdf:RDF>
